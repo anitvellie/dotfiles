@@ -1,3 +1,7 @@
 [user]
 	email = alevtina.anishchenko@emlid.com
 	name = Alevtina Anishchenko
+[alias]
+	unstage = reset HEAD --
+	undo = checkout --
+	subupdate = submodule update --init --recursive
